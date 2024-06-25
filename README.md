@@ -1,7 +1,7 @@
 # PRODIGY_WD_02
 PIT/JUN24/07945
-
 <h1>Stopwatch</h1>
+
 This is a simple Stopwatch application built using web technologies: HTML for structure, CSS for styling, and JavaScript for functionality.
 ## Features
 Start, stop, and reset functionality
@@ -20,7 +20,7 @@ Click "Lap" to record a split time. The recorded laps will appear below the cont
 - index.html: Contains the HTML structure of the Stopwatch.
 - style.css: Stylesheet for the Stopwatch interface.
 - script.js: JavaScript file for Stopwatch logic and interaction.
-Credits
+## Credits
 Created by Sandhya
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
