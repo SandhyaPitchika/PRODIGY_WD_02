@@ -1,5 +1,6 @@
-## PRODIGY_WD_02
+# PRODIGY_WD_02
 PIT/JUN24/07945
+
 <h1>Stopwatch</h1>
 This is a simple Stopwatch application built using web technologies: HTML for structure, CSS for styling, and JavaScript for functionality.
 ## Features
