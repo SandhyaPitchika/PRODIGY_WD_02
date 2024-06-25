@@ -2,6 +2,7 @@
 PIT/JUN24/07945
 <h1>Stopwatch</h1>
 
+![Screenshot 2024-06-25 223732](https://github.com/SandhyaPitchika/PRODIGY_WD_02/assets/173603999/a7cff798-93e0-4af4-9a43-2672eca265dc)
 This is a simple Stopwatch application built using web technologies: HTML for structure, CSS for styling, and JavaScript for functionality.
 ## Features
 Start, stop, and reset functionality
